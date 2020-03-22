@@ -1,0 +1,23 @@
+{
+  "name": "ondrados.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondrados/Ondrados.github.io.git"
+  },
+  "keywords": [],
+  "author": "Ondřej Doskočil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ondrados/Ondrados.github.io/issues"
+  },
+  "homepage": "https://ondrados.github.io/",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
